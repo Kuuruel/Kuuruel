@@ -34,3 +34,8 @@
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </div>
+<br>
+<h2 align="center">GitHub Stats : </h2>
+<div align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kuuruel&theme=chartreuse-dark" alt="GitHub Streak" /></a>
+</div>
