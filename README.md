@@ -4,7 +4,7 @@
 
 <div align="center">
    ☄️ I'm currently working on <b>a Project</b><br>
-   ☕ You can ask me anything about <b>HTML & CSS</b><br>
+   ☕ You can ask me anything about <b>Coding & Anime</b><br>
    🤝 Sharing <b>ideas</b> to each other
 </div>
 <br>
